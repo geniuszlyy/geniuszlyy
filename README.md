@@ -21,7 +21,7 @@
   <tr>
     <td>
    <img alt="Static Badge" src="https://img.shields.io/badge/𝚅𝙸𝚂𝙸𝚃𝙾𝚁%20𝙲𝙾𝚄𝙽𝚃%20-black?style=flat-square&logo=github&logoColor=1BFF00" width="210">
-    <img src="https://profile-counter.deno.dev/geniuszlyy/count.svg" align="right"/>
+    <img src="https://profile-counter.deno.dev/geniuszly/count.svg" align="right"/>
     </td>
   </tr>
 </table>
@@ -103,15 +103,15 @@
 <table align="center">
     <tr>
         <td>
-            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=geniuszlyy&show_icons=true&theme=dracula&hide_border=true&background=00000000&border_radius=10" />
+            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=geniuszly&show_icons=true&theme=dracula&hide_border=true&background=00000000&border_radius=10" />
         </td>
         <td>
-            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniuszlyy&layout=compact&theme=dracula&hide_border=true&background=00000000&border_radius=10">
+            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniuszly&layout=compact&theme=dracula&hide_border=true&background=00000000&border_radius=10">
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img height=200 align="center" src="https://streak-stats.demolab.com/?user=geniuszlyy&theme=dracula&hide_border=true&background=00000000&border_radius=0" alt="GitHub Streak" />
+            <img height=200 align="center" src="https://streak-stats.demolab.com/?user=geniuszly&theme=dracula&hide_border=true&background=00000000&border_radius=0" alt="GitHub Streak" />
         </td>
     </tr>
 </table>
@@ -119,7 +119,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center" style="margin: 0 auto; width: 80%;">
-  <img src="https://github-profile-trophy.vercel.app/?username=geniuszlyy&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=geniuszly&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 <br>
 </br>
